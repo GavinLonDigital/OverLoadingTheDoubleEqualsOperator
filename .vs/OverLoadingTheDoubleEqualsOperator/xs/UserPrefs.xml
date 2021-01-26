@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D2959F16-335D-40DE-8EA3-F0C6D67FC474}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OverLoadingTheDoubleEqualsOperator/Program.cs">
+    <Files>
+      <File FileName="OverLoadingTheDoubleEqualsOperator/Program.cs" Line="55" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OverLoadingTheDoubleEqualsOperator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
